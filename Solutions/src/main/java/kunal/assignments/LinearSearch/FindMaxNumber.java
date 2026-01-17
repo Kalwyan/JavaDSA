@@ -1,8 +1,4 @@
-package kunal.assignments;
-
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
+package kunal.assignments.LinearSearch;
 
 /**
  * Problem: Find maximum number from the given list of numbers

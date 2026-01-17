@@ -1,6 +1,4 @@
-package kunal.assignments;
-
-import static java.lang.Math.log10;
+package kunal.assignments.LinearSearch;
 
 /**
  * Problem: Find the count of numbers with even number of digits in a given array of numbers.

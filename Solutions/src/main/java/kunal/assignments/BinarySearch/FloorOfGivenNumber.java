@@ -1,4 +1,4 @@
-package kunal.assignments;
+package kunal.assignments.BinarySearch;
 
 /**
  * Problem: Find floor index from the given list of numbers

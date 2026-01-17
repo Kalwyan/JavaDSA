@@ -1,4 +1,4 @@
-package kunal.assignments;
+package kunal.assignments.BinarySearch;
 
 /**
  * Problem: Find Ceiling index of a number from the given list of numbers

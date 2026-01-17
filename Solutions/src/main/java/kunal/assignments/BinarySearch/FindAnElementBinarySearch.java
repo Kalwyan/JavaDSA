@@ -1,4 +1,4 @@
-package kunal.assignments;
+package kunal.assignments.BinarySearch;
 
 /**
  * Problem: find index of an element from the given list of numbers
